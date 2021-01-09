@@ -1,0 +1,31 @@
+{
+  "name": "RealWorldForNuxt",
+  "version": "1.0.0",
+  "description": "This is a demo for nuxt",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.10.1",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.4",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Norazz/RealWorldForNuxt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Norazz/RealWorldForNuxt/issues"
+  },
+  "homepage": "https://github.com/Norazz/RealWorldForNuxt#readme"
+}

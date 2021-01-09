@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/home",
+        "_name": "_1aa37600"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/login",
+        "_name": "_6352a368"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/login",
+        "_name": "_6352a368"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/profile",
+        "_name": "_9b438c30"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/settings",
+        "_name": "_2aa913c4"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/editor",
+        "_name": "_0b142564"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/zhangziru/font-end/RealWorldForNuxt/pages/article",
+        "_name": "_cdaf0596"
+      }
+    ],
+    "_name": "_0644c70b"
+  }
+]
