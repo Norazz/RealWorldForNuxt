@@ -1,5 +1,5 @@
 <template>
-  <h3>首页</h3>
+  <h3>ceshiye</h3>
 </template>
 
 <script>
